@@ -27,7 +27,7 @@
 ```
 
 <p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/971101243571335168?hideTimestamp=true&idleMessage=Vice-Hub%20is%20back&hideBadges=false"/>
+	<img src="https://lanyard-profile-readme.vercel.app/api/971101243571335168?hideTimestamp=true&idleMessage=Something%20about%20you&hideBadges=false"/>
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=vice1337&theme=dark&hide_border=true">
 	<br>
