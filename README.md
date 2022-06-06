@@ -5,6 +5,8 @@
 
 -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Karla&size=21&duration=5007&color=D593F7&lines=Hello+Welcome+to+my+profile!;my+name+is+vice.+17yo+lua+scripter;Join+my+Server%3A+Discord.gg%2Fvicehub;Developing+of+https%3A%2F%2Fvicehub.xyz%2F)](https://git.io/typing-svg)
+
 ```css
 [vice1337@archlinux ~]$ neofetch
 
