@@ -28,8 +28,6 @@
 
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=21&duration=2500&color=00D8F7&multiline=true&lines=You+want+contact+me%3F+My+socials%3A;+;Telegram%3A+vice1337;Discord%3A+Vice%231337;Instagram%3A+vice666s;Twitter%3A+vice666p)](https://git.io/typing-svg)
-
 <p align="center">
 	<img src="https://lanyard-profile-readme.vercel.app/api/971101243571335168?hideTimestamp=true&idleMessage=Something%20about%20you&hideBadges=false"/>
 <!-- 	<br>
