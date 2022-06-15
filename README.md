@@ -20,9 +20,9 @@
              /##############@             
             @######@**%######@            -----------------
            @######`     %#####o           Lua : 7/10
-          @######@       ######%          Javascript: 6/1O
+          @######@       ######%          Javascript: 5/1O
         -@#######h       ######@.`        HTML: 6/10
-       /#####h**``       `**%@####@       CSS : 7/10
+       /#####h**``       `**%@####@       CSS : 6/10
       @H@*`                    `*%#@      
      *`                            `*     Infos: 17yo in love with scripting and self-taught developer, Owner of discord.gg/vicehub
 
