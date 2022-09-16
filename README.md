@@ -8,13 +8,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Karla&size=21&duration=5007&color=D593F7&lines=Hello+Welcome+to+my+profile!;my+name+is+vice.+17yo+lua+scripter;Join+my+Server%3A+Discord.gg%2Fvicehub;Developing+of+https%3A%2F%2Fvicehub.xyz%2F)](https://git.io/typing-svg)
 
 ```css
-[vice1337@archlinux ~]$ neofetch
+[vice1337@drenated ~]$ neofetch
 
-                    -@                    vice@archlinux
+                    -@                    vice@god
                    .##@                   -----------------
                   .####@                  Username: vice
-                  @#####@                 Alias: Vice, Jeff
-                . *######@                Discord: https://discord.gg/vicehub
+                  @#####@                 Full Name: Vice Dreanted 
+                . *######@                Discord: https://discord.gg/vicehub[urldead]
                .##@o@#####@               Website: https://vice.lol
               /############@              Location: Istanbul/Turkey
              /##############@             
@@ -24,7 +24,7 @@
         -@#######h       ######@.`        HTML: 6/10
        /#####h**``       `**%@####@       CSS : 6/10
       @H@*`                    `*%#@      
-     *`                            `*     Infos: 17yo in love with scripting and self-taught developer, Owner of discord.gg/vicehub
+     *`                            `*     Infos: 17yo in love with scripting and self-taught developer, Owner of vicehub
 
 ```
 
