@@ -15,7 +15,7 @@
                   .####@                  Username: vice
                   @#####@                 Full Name: Vice Dreanted 
                 . *######@                Discord: Vice#0001
-               .##@o@#####@               Website: https://vice.lol
+               .##@o@#####@               Website: https://vice.lol/
               /############@              Location: Istanbul/Turkey
              /##############@             
             @######@**%######@            -----------------
