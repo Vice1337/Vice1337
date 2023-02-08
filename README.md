@@ -7,15 +7,15 @@
 
 
 ```css
-[vice1337@drenated ~]$ neofetch
+[vice@drenated ~]$ 1337
 
                     -@                    vice@god
                    .##@                   -----------------
-                  .####@                  Username: vice
+                  .####@                  Username: Vice
                   @#####@                 Full Name: Vice Dreanted 
                 . *######@                Discord: Vice#0001
                .##@o@#####@               Website: https://vice.lol/
-              /############@              Location: Istanbul/Turkey
+              /############@              Location: Turkey
              /##############@             
             @######@**%######@            -----------------
            @######`     %#####o           Lua : 7/10
@@ -23,7 +23,7 @@
         -@#######h       ######@.`        HTML: 6/10
        /#####h**``       `**%@####@       CSS : 6/10
       @H@*`                    `*%#@      
-     *`                            `*     Infos: 17yo in love with scripting and self-taught developer, Owner of vicehub
+     *`                            `*     Infos: 18yo in love with scripting and self-taught developer, Owner of vicehub
 
 ```
 
