@@ -13,17 +13,17 @@
                    .##@                   -----------------
                   .####@                  Username: Vice
                   @#####@                 Full Name: Vice Dreanted 
-                . *######@                Discord: Vice#9035
+                . *######@                Discord: v2ce
                .##@o@#####@               Website: https://vice.lol/
               /############@              Location: World
              /##############@             
             @######@**%######@            -----------------
-           @######`     %#####o           Lua : 7/10
-          @######@       ######%          Javascript: 5/1O
-        -@#######h       ######@.`        HTML: 6/10
-       /#####h**``       `**%@####@       CSS : 6/10
+           @######`     %#####o           Lua : 8.5/10
+          @######@       ######%          php: 7/1O
+        -@#######h       ######@.`        Javascript: 5/10
+       /#####h**``       `**%@####@       HTML : 8/10
       @H@*`                    `*%#@      
-     *`                            `*     Infos: 18yo in love with scripting and self-taught developer, Owner of vicehub
+     *`                            `*     Infos: 19yo in love with scripting and self-taught developer, Owner of vicehub
 
 ```
 
