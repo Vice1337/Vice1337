@@ -18,10 +18,10 @@
               /############@              Location: World
              /##############@             
             @######@**%######@            -----------------
-           @######`     %#####o           C++ : 9.5/10
+           @######`     %#####o           CPP: 10/10
           @######@       ######%          LUA: 9/1O
         -@#######h       ######@.`        PHP: 8/10
-       /#####h**``       `**%@####@       JS,HTML,CS : 6/10
+       /#####h**``       `**%@####@       JS,HTML,CSS : 6/10
       @H@*`                    `*%#@      
      *`                            `*     Infos: 20yo in love with scripting and self-taught developer, Owner of vicehub 
 
