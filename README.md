@@ -18,12 +18,12 @@
               /############@              Location: World
              /##############@             
             @######@**%######@            -----------------
-           @######`     %#####o           Lua : 8.5/10
-          @######@       ######%          php: 7/1O
-        -@#######h       ######@.`        Javascript: 5/10
-       /#####h**``       `**%@####@       HTML : 8/10
+           @######`     %#####o           C++ : 9.5/10
+          @######@       ######%          LUA: 9/1O
+        -@#######h       ######@.`        PHP: 8/10
+       /#####h**``       `**%@####@       JS,HTML,CS : 6/10
       @H@*`                    `*%#@      
-     *`                            `*     Infos: 19yo in love with scripting and self-taught developer, Owner of vicehub
+     *`                            `*     Infos: 20yo in love with scripting and self-taught developer, Owner of vicehub 
 
 ```
 
